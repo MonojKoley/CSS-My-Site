@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    background: #eff4f2;
+}
+
+header{
+    padding-bottom: 35px;
+    margin: 0px;
+    background-color: #EAF6F6;
+}
+
+h1{
+    font-family: 'Kaushan Script', cursive;
+    margin: 0 auto;
+    color: #1e836c;
+    font-size: 5.6em;
+    letter-spacing: 2px;
+    position: relative;
+    font-weight: 500;
+}
+
+.sub-title{
+    font-family: 'Padauk', sans-serif;
+    margin: 0 auto;
+    display: inline-block;
+    color: #1e836c;
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.nav-bar{
+    display: inline-block;
+    margin: 20px 50px auto auto;
+}
+
+a{
+    color: #1e836c;
+    text-decoration: none; 
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.navigation{
+    margin: 0px;
+    padding-right: 50px;
+    float: right;
+}
+
+.head-img{
+    width: 8%;
+    float: left;
+    margin: 15px auto auto 60px;
+    border: 1px solid rgba(199, 202, 205, 0.911);
+    border-radius: 65px;
+    background-color: rgba(199, 202, 205, 0.911);
+}
+
+#front{
+    background-color: #EAF6F6;
+    padding: 50px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 205px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 220px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 20px;
+}
+
+.landscape{
+    top: 3px;
+    position: relative;
+}
+
+.heading{
+    position: relative;
+    bottom: 70px;
+}
+
+#middle-container{
+    margin: 50px auto 50px auto;
+}
+
+hr{
+    border: dotted rgba(199, 202, 205, 0.911) 5px;
+    border-top: none;
+    width: 5%;
+}
+
+h3{
+    color: #45b29a;
+    font-size: 1.5em;
+}
+
+h2{
+    color: #1e836c;
+    font-size: 2em;
+}
+
+.profile{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    max-width: 50%;
+}
+
+p{
+    color: #545454;
+    font-size: 1.2em;
+    margin: 50px auto 50px auto;
+    font-weight: 300;
+}
+
+.skills{
+    margin-top: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.web{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.graphics{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.digital{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer{
+    font-size: 1em;
+    margin-bottom: 0px;
+}
+
+.btn{
+    border: 1px solid #45b29a;
+    background-color: #45b29a;
+    color: #1c806a;
+    padding: 0.5em;
+    word-spacing: 0.1em;
+    border-radius: .4em;
+}
+
+.fa{
+    padding: 0 0.5em;
+}
+
+.bottom-container{
+    background-color: #c5ded7;
+    padding: 3em 0;
+}
+
+.footer-link{
+    padding: 1em;
+}
