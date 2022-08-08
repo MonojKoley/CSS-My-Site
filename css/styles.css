@@ -55,7 +55,7 @@ a{
     float: left;
     margin: 15px auto auto 60px;
     border: 1px solid rgba(199, 202, 205, 0.911);
-    border-radius: 65px;
+    border-radius: 80px;
     background-color: rgba(199, 202, 205, 0.911);
 }
 
@@ -66,6 +66,8 @@ a{
     border-bottom: 0px;
     margin-bottom: 0px;
     padding-top: 205px;
+    width: 100vw;
+    height: 100vh;
 }
 
 .bottom-cloud{
